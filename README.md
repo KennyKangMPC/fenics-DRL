@@ -2,6 +2,20 @@
 
 Repository from the paper [A review on Deep Reinforcement Learning for Fluid Mechanics](https://arxiv.org/abs/1908.04127).
 
+# List of other repo. with CFD + DRL (if your code is not here, please feel free to make a pull request) 
+
+(Explanatations on how to use the code are below)
+
+| Fenis + DRL                                                                                              | https://github.com/DonsetPG/fenics-DRL                         |
+|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Flow Control of the 2D Kármán Vortex Street with Deep Reinforcement Learning                             | https://github.com/jerabaul29/Cylinder2DFlowControlDRL         |
+| Accelerating Deep Reinforcement Learning strategies of Flow Control through a multi-environment approach | https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel |
+| Deep Reinforcement Learning control of the unstable falling liquid film                                  | https://github.com/vbelus/falling-liquid-film-drl              |
+| Direct shape optimization through deep reinforcement learning                                            | https://github.com/jviquerat/drl_shape_optimization            |
+| Fluid directed rigid ball balancing using Deep Reinforcement Learning                                    | https://github.com/sahilgupta2105/Deep-Reinforcement-Learning  |
+| Efficient collective swimming by harnessing vortices through deep reinforcement learning                 | https://github.com/cselab/smarties                             |
+| Training an RL agent to swim at low Reynolds Number                                                      | https://github.com/RpDp-git/LearningToSwim-DQN                 |
+
 # How to use the code : 
 
 ## Install everything : 
